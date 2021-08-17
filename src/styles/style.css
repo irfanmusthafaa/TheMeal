@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Lucida Grande";
+    background-color: #00587a;
+   
+}
+
+main {
+    
+   /* width: 90%;
+    max-width: 800px;*/
+    margin-bottom: 32px;
+}
+
+meal-list {
+    display: block;
+    color : black;
+    width: 70%;
+    padding: 16px;
+    
+}
+
